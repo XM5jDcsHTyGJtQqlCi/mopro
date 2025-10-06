@@ -73,3 +73,5 @@ Even if you're using an adapter that isn’t officially supported by Mopro, you 
 -   Nova Scotia: https://github.com/zkmopro/mopro/pull/240
 
 🔧 For setup details, refer to the [Rust Setup](/docs/setup/rust-setup) guide.
+
+<!-- Auto-update: 2025-10-06T21:49:00.235754 -->
